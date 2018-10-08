@@ -2,16 +2,16 @@
 
 ## 课后作业
 
-1. [01-使用维基百科（Wikipedia）解释名词](hw01)[SH-homework/hw01.md ]
-2. [02-](hw02)[SH-homework/hw02.md ]
+1. [01-使用维基百科（Wikipedia）解释名词](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw01.md)
+2. [02-答题与解释名词](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw02.md)
 3. [03-](hw03)
 4. ...
 
 
 ## 实验与实践
 
-1. [01-我的 Markdown 博客](lab01)[SH-homework/lab01.md ]
-2. [02-制作 HTML5 游戏](lab02)
+1. [01-我的 Markdown 博客](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab01.md)
+2. [02-制作 HTML5 游戏](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab02.md)
 3. [03-我喜欢的...-...](lab03)
 4. [04-我的科普博客](lab04)
 5. [05-电路学习](lab05)
