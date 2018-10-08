@@ -3,7 +3,7 @@
 ## 课后作业
 
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)[SH-homework/hw01.md ]
-2. [02-](hw02)
+2. [02-](hw02)[SH-homework/hw02.md ]
 3. [03-](hw03)
 4. ...
 
