@@ -12,7 +12,7 @@
 
 1. [01-我的 Markdown 博客](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab01.md)
 2. [02-制作 HTML5 游戏](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab02.md)
-3. [03-我喜欢的...-...](lab03)
+3. [03-我喜欢的电影-《社交网络》](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab03.md)
 4. [04-我的科普博客](lab04)
 5. [05-电路学习](lab05)
 6. [06-X现象背后的IT规律](lab06)
