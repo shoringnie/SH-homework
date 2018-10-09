@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 天才或是
+title: TheSocialNetwork
 ---
 # 由那个被女朋友甩了的天才码农说起
 ## 副标题：把码农逼急了什么都做得出来
