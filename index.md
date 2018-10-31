@@ -7,7 +7,7 @@
 3. [03-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw03.md)
 4. [04-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw04.md)
 5. [05-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw05.md)
-
+6. [06-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw06.md)
 
 ## 实验与实践
 
