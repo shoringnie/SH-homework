@@ -3,6 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+上标<sup>6</sup>下标；<sub>8</sub>
 
 [Link to another page](another-page).
 
