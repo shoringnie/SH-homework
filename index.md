@@ -2,21 +2,19 @@
 
 ## 课后作业
 
-1. [01-使用维基百科（Wikipedia）解释名词](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw01.md)
-2. [02-答题与解释名词](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw02.md)
-3. [03-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw03.md)
-4. [04-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw04.md)
-5. [05-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw05.md)
-6. [06-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw06.md)
-7. [07-](https://github.com/shoringnie/SH-homework/blob/gh-pages/hw07.md)
-
+1. [01-使用维基百科（Wikipedia）解释名词](hw01)
+2. [02-答题与解释名词](hw02)
+3. [03-](hw03)
+4. [04-](hw04)
+5. [05-](hw05)
+6. [06-](hw06)
+7. [07-](hw07)
 ## 实验与实践
 
-1. [01-我的 Markdown 博客](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab01.md)
-2. [02-制作 HTML5 游戏](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab02.md)
-3. [03-我喜欢的电影-《社交网络》](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab03.md)
-4. [04-我的科普博客-关于C语言多层循环结构的一些经验01](https://github.com/shoringnie/SH-homework/blob/gh-pages/lab04.md
-)
+1. [01-我的 Markdown 博客](lab01)
+2. [02-制作 HTML5 游戏](lab02)
+3. [03-我喜欢的电影-《社交网络》](lab03)
+4. [04-我的科普博客-关于C语言多层循环结构的一些经验01](lab04)
 5. [05-电路学习](lab05)
 6. [06-X现象背后的IT规律](lab06)
 7. [07-机器语言实验报告](lab07)
