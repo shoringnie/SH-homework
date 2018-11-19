@@ -9,6 +9,9 @@
 5. [05-](hw05)
 6. [06-](hw06)
 7. [07-](hw07)
+8. [08-top-down method](hw08)
+7. [09-object-oriented method](hw09)
+
 ## 实验与实践
 
 1. [01-我的 Markdown 博客](lab01)
