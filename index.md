@@ -4,11 +4,11 @@
 
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)
 2. [02-答题与解释名词](hw02)
-3. [03-](hw03)
-4. [04-](hw04)
-5. [05-](hw05)
-6. [06-](hw06)
-7. [07-](hw07)
+3. [03-Data Representation 01-字节与二进制](hw03)
+4. [04-Data Representation 02-色彩表示](hw04)
+5. [05-Gates and Circuits 门与电路](hw05)
+6. [06-Computing Components ](hw06)
+7. [07-Programming on Bare Machine](hw07)
 8. [08-top-down method](hw08)
 7. [09-object-oriented method](hw09)
 
