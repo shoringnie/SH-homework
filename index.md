@@ -11,6 +11,8 @@
 7. [07-Programming on Bare Machine](hw07)
 8. [08-top-down method](hw08)
 7. [09-object-oriented method](hw09)
+8. [10-Abstract Data Types
+and Algorithms](hw10)
 
 ## 实验与实践
 
