@@ -41,13 +41,14 @@ _使用可视化工具，我们定义的游戏中的对象（数据及其表示�
 运用 **CRC（Class-Responsibility-Collaboration）卡片方法** 描述游戏中的所有对象与事件。
 | object       | event          | actions |
 |:-------------|:------------------|:------|
-system| every tick| player turn towards mouse
-system| every 3s| create new monster
-mouse| every left clicked| player shoot bullet
-bullet| collide with monster| destroy
-player| collide with monster| destroy& GG
-monster| collide with bullet five times| destroy
-monster| move outside the layer| turn back
+|system| every tick| player turn towards mouse|
+|system| every 3s| create new monster|
+|mouse| every left clicked| player shoot bullet|
+|bullet| collide with monster| destroy|
+|player| collide with monster| destroy& GG|
+|monster| collide with bullet five times| destroy|
+|monster| move outside the layer| turn back|
+
 ![events](images/lab0203.png)
 #### 4、最终成果图
 ![成果截图](images/成果截图.gif)
