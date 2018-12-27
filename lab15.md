@@ -4,7 +4,7 @@ title: 智能蛇实验报告
 ---
 # 智能蛇实验报告
 ##  18342078
----
+
 ### 目录
 - 一、实验目标
 - 二、实验环境
@@ -68,6 +68,7 @@ title: 智能蛇实验报告
 ![poster](images/智能蛇.gif) 
 #### 2、实现 kbhit()
 > 插入原snake代码
+
 ```
 #include <stdio.h>
 #include <string.h>
@@ -169,7 +170,6 @@ void snakeMove(int snakeLength){
 	}
 }
 static struct termios ori_attr, cur_attr;
-
 static __inline 
 int tty_reset(void)
 {
@@ -178,8 +178,6 @@ int tty_reset(void)
 
         return 0;
 }
-
-
 static __inline
 int tty_set(void)
 {
@@ -199,7 +197,6 @@ int tty_set(void)
 
         return 0;
 }
-
 static __inline
 int kbhit(void) 
 {
@@ -228,9 +225,7 @@ int kbhit(void)
                 return 0;
         return 0;
 }
-
 //将你的 snake 代码放在这里
-
 int main()
 {
     //设置终端进入非缓冲状态
