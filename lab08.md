@@ -39,15 +39,15 @@ e.g.object——player
 _使用可视化工具，我们定义的游戏中的对象（数据及其表示）。编程的任务就是特定条件下，用系统提供的操作序列去改变这些对象的属性（数据）。_
 ![events](images/lab0203.png)
 运用 **CRC（Class-Responsibility-Collaboration）卡片方法** 描述游戏中的所有对象与事件。
-| object       | event          | actions |
-|:-------------|:------------------|:------|
-|system| every tick| player turn towards mouse|
-|system| every 3s| create new monster|
-|mouse| every left clicked| player shoot bullet|
-|bullet| collide with monster| destroy|
-|player| collide with monster| destroy& GG|
-|monster| collide with bullet five times| destroy|
-|monster| move outside the layer| turn back|
+| object       | event                         | actions                  |
+|:-------------|:------------------------------|:-------------------------|
+|system        | every tick                    | player turn towards mouse|
+|system        | every 3s                      | create new monster       |
+|mouse         | every left clicked            | player shoot bullet      |
+|bullet        | collide with monster          | destroy                  |
+|player        | collide with monster          | destroy& GG              |
+|monster       | collide with bullet five times| destroy                  |
+|monster       | move outside the layer        | turn back                |
 
 ![events](images/lab0203.png)
 #### 4、最终成果图
